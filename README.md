@@ -1,10 +1,18 @@
 # Hello, i'm Vanessa 🖐
 
-🎓 Estudande de Análise e Desenvolvimento de Sistema. 
 
-💻 Apaixonada por tecnologia.
+🎓 Atualmente, sou estudante de Análise e Desenvolvimento de Sistema na Universidade UNIPAR.
 
-👩‍💻 Futura Front-end.
+💻 Sou apaixonada por tecnologia e estou sempre buscando novos conhecimentos e aperfeiçoamentos na área para me manter atualizada em um mercado em constante evolução.
+
+💡 Tenho experiência em linguagens de programação como JavaScript, além de estar sempre disposta a aprender novas linguagens e ferramentas para ampliar minha capacidade técnica.
+
+🤝 Possuo um excelente relacionamento interpessoal e uma grande habilidade para me adaptar facilmente a mudanças, o que me permite contribuir de forma significativa para qualquer equipe de trabalho.
+
+🔍 Embora ainda não tenha experiência profissional, estou sempre buscando oportunidades de aprendizado e projetos interessantes para colocar meus conhecimentos em prática e crescer muito com dedicação e empenho.
+
+🚀 Estou animada para explorar todas as oportunidades que possam surgir.
+
 
 
  <div> 
