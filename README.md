@@ -5,7 +5,7 @@
 
 💻 Sou apaixonada por tecnologia e estou sempre buscando novos conhecimentos e aperfeiçoamentos na área para me manter atualizada em um mercado em constante evolução.
 
-💡 Tenho experiência em linguagens de programação como JavaScript, além de estar sempre disposta a aprender novas linguagens e ferramentas para ampliar minha capacidade técnica.
+💡 Tenho conhecimento em linguagem de programação como JavaScript, além de estar sempre disposta a aprender novas linguagens e ferramentas para ampliar minha capacidade técnica.
 
 🤝 Possuo um excelente relacionamento interpessoal e uma grande habilidade para me adaptar facilmente a mudanças, o que me permite contribuir de forma significativa para qualquer equipe de trabalho.
 
